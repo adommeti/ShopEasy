@@ -1,0 +1,15 @@
+/mnt/c/source/ShopEasy/ShopEasy.Application/bin/Debug/net10.0/ShopEasy.Application.deps.json
+/mnt/c/source/ShopEasy/ShopEasy.Application/bin/Debug/net10.0/ShopEasy.Application.dll
+/mnt/c/source/ShopEasy/ShopEasy.Application/bin/Debug/net10.0/ShopEasy.Application.pdb
+/mnt/c/source/ShopEasy/ShopEasy.Application/bin/Debug/net10.0/ShopEasy.Domain.dll
+/mnt/c/source/ShopEasy/ShopEasy.Application/bin/Debug/net10.0/ShopEasy.Domain.pdb
+/mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/ShopEasy.Application.csproj.AssemblyReference.cache
+/mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/ShopEasy.Application.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/ShopEasy.Application.AssemblyInfoInputs.cache
+/mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/ShopEasy.Application.AssemblyInfo.cs
+/mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/ShopEasy.Application.csproj.CoreCompileInputs.cache
+/mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/ShopEasy.3B0BE5A8.Up2Date
+/mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/ShopEasy.Application.dll
+/mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/refint/ShopEasy.Application.dll
+/mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/ShopEasy.Application.pdb
+/mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/ref/ShopEasy.Application.dll

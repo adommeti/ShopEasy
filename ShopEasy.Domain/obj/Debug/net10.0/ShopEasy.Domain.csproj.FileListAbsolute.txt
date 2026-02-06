@@ -1,0 +1,11 @@
+/mnt/c/source/ShopEasy/ShopEasy.Domain/bin/Debug/net10.0/ShopEasy.Domain.deps.json
+/mnt/c/source/ShopEasy/ShopEasy.Domain/bin/Debug/net10.0/ShopEasy.Domain.dll
+/mnt/c/source/ShopEasy/ShopEasy.Domain/bin/Debug/net10.0/ShopEasy.Domain.pdb
+/mnt/c/source/ShopEasy/ShopEasy.Domain/obj/Debug/net10.0/ShopEasy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/source/ShopEasy/ShopEasy.Domain/obj/Debug/net10.0/ShopEasy.Domain.AssemblyInfoInputs.cache
+/mnt/c/source/ShopEasy/ShopEasy.Domain/obj/Debug/net10.0/ShopEasy.Domain.AssemblyInfo.cs
+/mnt/c/source/ShopEasy/ShopEasy.Domain/obj/Debug/net10.0/ShopEasy.Domain.csproj.CoreCompileInputs.cache
+/mnt/c/source/ShopEasy/ShopEasy.Domain/obj/Debug/net10.0/ShopEasy.Domain.dll
+/mnt/c/source/ShopEasy/ShopEasy.Domain/obj/Debug/net10.0/refint/ShopEasy.Domain.dll
+/mnt/c/source/ShopEasy/ShopEasy.Domain/obj/Debug/net10.0/ShopEasy.Domain.pdb
+/mnt/c/source/ShopEasy/ShopEasy.Domain/obj/Debug/net10.0/ref/ShopEasy.Domain.dll

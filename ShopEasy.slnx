@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ShopEasy.Application/ShopEasy.Application.csproj" />
+  <Project Path="ShopEasy.Client/ShopEasy.Client.csproj" />
+  <Project Path="ShopEasy.Domain/ShopEasy.Domain.csproj" />
+  <Project Path="ShopEasy.Infrastructure/ShopEasy.Infrastructure.csproj" />
+  <Project Path="ShopEasy.Tests/ShopEasy.Tests.csproj" />
+  <Project Path="ShopEasy.WebApi/ShopEasy.WebApi.csproj" />
+</Solution>

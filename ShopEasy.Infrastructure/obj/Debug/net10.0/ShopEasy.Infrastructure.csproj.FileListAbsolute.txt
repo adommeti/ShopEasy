@@ -1,0 +1,17 @@
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/bin/Debug/net10.0/ShopEasy.Infrastructure.deps.json
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/bin/Debug/net10.0/ShopEasy.Infrastructure.dll
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/bin/Debug/net10.0/ShopEasy.Infrastructure.pdb
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/bin/Debug/net10.0/ShopEasy.Application.dll
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/bin/Debug/net10.0/ShopEasy.Domain.dll
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/bin/Debug/net10.0/ShopEasy.Domain.pdb
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/bin/Debug/net10.0/ShopEasy.Application.pdb
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/ShopEasy.Infrastructure.csproj.AssemblyReference.cache
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/ShopEasy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/ShopEasy.Infrastructure.AssemblyInfoInputs.cache
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/ShopEasy.Infrastructure.AssemblyInfo.cs
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/ShopEasy.Infrastructure.csproj.CoreCompileInputs.cache
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/ShopEasy.02E1DA00.Up2Date
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/ShopEasy.Infrastructure.dll
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/refint/ShopEasy.Infrastructure.dll
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/ShopEasy.Infrastructure.pdb
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/ref/ShopEasy.Infrastructure.dll

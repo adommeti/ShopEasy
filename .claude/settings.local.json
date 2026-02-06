@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet new:*)",
+      "Bash(wget:*)",
+      "Bash(chmod:*)",
+      "Bash(./dotnet-install.sh:*)",
+      "Bash(export DOTNET_ROOT=$HOME/.dotnet:*)",
+      "Bash(export PATH=$PATH:$DOTNET_ROOT:$DOTNET_ROOT/tools)",
+      "Bash(dotnet:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)"
+    ]
+  }
+}
