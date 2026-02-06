@@ -1,0 +1,42 @@
+## .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+## User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS / Rider
+.vs/
+.idea/
+*.swp
+*~
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## NuGet
+**/packages/
+*.nupkg
+**/project.assets.json
+**/project.nuget.cache
+
+## SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Misc
+dotnet-install.sh
