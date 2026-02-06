@@ -149,3 +149,4 @@
 /mnt/c/source/ShopEasy/ShopEasy.Tests/obj/Debug/net10.0/ShopEasy.Tests.pdb
 /mnt/c/source/ShopEasy/ShopEasy.Tests/obj/Debug/net10.0/ShopEasy.Tests.genruntimeconfig.cache
 /mnt/c/source/ShopEasy/ShopEasy.Tests/obj/Debug/net10.0/ref/ShopEasy.Tests.dll
+/mnt/c/source/ShopEasy/ShopEasy.Tests/obj/Debug/net10.0/ShopEasy.Tests.sourcelink.json

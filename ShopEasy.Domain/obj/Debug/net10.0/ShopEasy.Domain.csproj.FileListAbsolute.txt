@@ -9,3 +9,4 @@
 /mnt/c/source/ShopEasy/ShopEasy.Domain/obj/Debug/net10.0/refint/ShopEasy.Domain.dll
 /mnt/c/source/ShopEasy/ShopEasy.Domain/obj/Debug/net10.0/ShopEasy.Domain.pdb
 /mnt/c/source/ShopEasy/ShopEasy.Domain/obj/Debug/net10.0/ref/ShopEasy.Domain.dll
+/mnt/c/source/ShopEasy/ShopEasy.Domain/obj/Debug/net10.0/ShopEasy.Domain.sourcelink.json

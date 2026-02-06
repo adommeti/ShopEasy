@@ -13,3 +13,4 @@
 /mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/refint/ShopEasy.Application.dll
 /mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/ShopEasy.Application.pdb
 /mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/ref/ShopEasy.Application.dll
+/mnt/c/source/ShopEasy/ShopEasy.Application/obj/Debug/net10.0/ShopEasy.Application.sourcelink.json

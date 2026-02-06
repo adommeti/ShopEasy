@@ -23,11 +23,7 @@
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
-/mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
-/mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/scopedcss/Components/Layout/NavMenu.razor.rz.scp.css
-/mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/scopedcss/Components/Layout/ReconnectModal.razor.rz.scp.css
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/scopedcss/bundle/ShopEasy.Client.styles.css
-/mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/scopedcss/projectbundle/ShopEasy.Client.bundle.scp.css
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/compressed/5430h0yo06-{0}-w7mf952350-w7mf952350.gz
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/compressed/tj0cg1ie4v-{0}-bqjiyaj88i-bqjiyaj88i.gz
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/compressed/esgbi2y8ic-{0}-c2jlpeoesf-c2jlpeoesf.gz
@@ -73,11 +69,8 @@
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/compressed/gvxo27i81u-{0}-h1s4sie4z3-h1s4sie4z3.gz
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/compressed/haw09ct1sr-{0}-63fj8s7r0e-63fj8s7r0e.gz
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/compressed/u2afms8pl2-{0}-0j3bgjxly4-0j3bgjxly4.gz
-/mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/compressed/x1wvshdryn-{0}-cyz5k529gx-cyz5k529gx.gz
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/compressed/yjcsd6ysyc-{0}-2i0r6wwb69-2i0r6wwb69.gz
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/compressed/eh77kmbkb7-{0}-iz83ucvm53-iz83ucvm53.gz
-/mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/compressed/obfhihytvs-{0}-5zjs7464g0-5zjs7464g0.gz
-/mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/compressed/9lhbdotn5g-{0}-5zjs7464g0-5zjs7464g0.gz
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/staticwebassets.build.json
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/staticwebassets.build.json.cache
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/staticwebassets.development.json
@@ -91,3 +84,4 @@
 /mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/ref/ShopEasy.Client.dll
 /mnt/c/source/ShopEasy/ShopEasy.Client/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
 /mnt/c/source/ShopEasy/ShopEasy.Client/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/mnt/c/source/ShopEasy/ShopEasy.Client/obj/Debug/net10.0/ShopEasy.Client.sourcelink.json

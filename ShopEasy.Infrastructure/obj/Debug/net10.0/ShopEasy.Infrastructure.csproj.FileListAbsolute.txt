@@ -15,3 +15,4 @@
 /mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/refint/ShopEasy.Infrastructure.dll
 /mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/ShopEasy.Infrastructure.pdb
 /mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/ref/ShopEasy.Infrastructure.dll
+/mnt/c/source/ShopEasy/ShopEasy.Infrastructure/obj/Debug/net10.0/ShopEasy.Infrastructure.sourcelink.json

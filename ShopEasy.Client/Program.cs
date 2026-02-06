@@ -2,22 +2,44 @@ using ShopEasy.Client.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// ============================================================
+// SERVICES
+// ============================================================
+
+// Razor components with interactive Server rendering (SignalR)
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
+// HttpClient configured to call our WebAPI.
+// All Blazor components can inject HttpClient to fetch data.
+var apiBaseUrl = builder.Configuration["ApiBaseUrl"] ?? "http://localhost:5177";
+
+builder.Services.AddHttpClient("ShopEasyApi", client =>
+{
+    client.BaseAddress = new Uri(apiBaseUrl);
+});
+
+// Register a default HttpClient that components can inject directly
+builder.Services.AddScoped(sp =>
+    sp.GetRequiredService<IHttpClientFactory>().CreateClient("ShopEasyApi"));
+
+// ============================================================
+// BUILD THE APP
+// ============================================================
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// ============================================================
+// MIDDLEWARE PIPELINE
+// ============================================================
+
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error", createScopeForErrors: true);
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
-app.UseStatusCodePagesWithReExecute("/not-found", createScopeForStatusCodePages: true);
-app.UseHttpsRedirection();
 
+app.UseHttpsRedirection();
 app.UseAntiforgery();
 
 app.MapStaticAssets();
