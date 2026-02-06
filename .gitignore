@@ -5,6 +5,9 @@ obj/
 *.exe
 *.pdb
 
+## Claude
+.claude/
+
 ## User-specific
 *.user
 *.suo
